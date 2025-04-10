@@ -1,0 +1,917 @@
+2024-12-08T11:29:58.245Z info: User logged in: Pihu
+2024-12-08T11:30:20.001Z warn: Login failed: wrong credentials for username Pihu
+2024-12-08T11:30:28.406Z info: User logged in: Pihu
+2024-12-08T11:32:59.926Z info: User logged in: Pihu
+2024-12-08T11:33:02.738Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-08T11:33:17.558Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-08T11:36:09.873Z info: Orders retrieved for user 63e15160b8da581ccf084e43
+2024-12-08T11:37:37.592Z info: Products retrieved for category tshirt
+2024-12-08T11:37:41.423Z info: Product with ID 631c5c34442518818984b8e6 retrieved
+2024-12-08T11:37:55.028Z info: Product added to cart for user 63e15160b8da581ccf084e43
+2024-12-08T11:39:06.510Z info: All products retrieved
+2024-12-08T11:39:15.895Z info: User logged in: Pihu
+2024-12-08T11:39:16.019Z info: All products retrieved
+2024-12-08T11:44:44.708Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T11:44:44.710Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T11:44:44.820Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-08T11:44:50.650Z warn: Authentication attempt without token
+2024-12-08T11:51:02.805Z info: All products retrieved
+2024-12-08T11:51:04.453Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T11:51:04.453Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T11:51:04.535Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-08T11:52:49.498Z error: Authentication attempt without token
+2024-12-08T12:06:17.770Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:06:21.766Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:06:25.763Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:06:29.762Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:06:33.763Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:06:37.763Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:06:41.759Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:06:45.762Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:06:49.766Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:06:53.765Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:06:57.764Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:01.771Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:05.758Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:07.110Z info: GET /api/products/ - ::1
+2024-12-08T12:07:07.207Z info: All products retrieved
+2024-12-08T12:07:09.763Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:10.226Z info: GET /api/products/?category=pant - ::1
+2024-12-08T12:07:10.317Z info: Products retrieved for category pant
+2024-12-08T12:07:13.758Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:17.767Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:21.763Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:25.761Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:29.758Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:33.760Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:37.763Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:41.762Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:45.264Z info: GET /api/products/ - ::1
+2024-12-08T12:07:45.341Z info: All products retrieved
+2024-12-08T12:07:45.764Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:47.681Z info: GET /api/products/?category=shoes - ::1
+2024-12-08T12:07:47.756Z info: Products retrieved for category shoes
+2024-12-08T12:07:49.763Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:53.768Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:07:56.351Z info: GET /api/products/find/631c44bc71e4170d702bfefe - ::1
+2024-12-08T12:07:56.445Z info: Product with ID 631c44bc71e4170d702bfefe retrieved
+2024-12-08T12:07:57.769Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:01.767Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:05.760Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:08.474Z info: GET /api/products/ - ::1
+2024-12-08T12:08:08.561Z info: All products retrieved
+2024-12-08T12:08:09.761Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:13.760Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:15.726Z info: GET /api/carts/find/63e15160b8da581ccf084e43 - ::1
+2024-12-08T12:08:15.759Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T12:08:15.759Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T12:08:15.838Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-08T12:08:17.769Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:21.765Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:25.047Z info: GET /api/products/ - ::1
+2024-12-08T12:08:25.118Z info: All products retrieved
+2024-12-08T12:08:25.764Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:29.761Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:30.425Z info: GET /api/products/find/631c481316c2ec8d98a16857 - ::1
+2024-12-08T12:08:30.518Z info: Product with ID 631c481316c2ec8d98a16857 retrieved
+2024-12-08T12:08:32.942Z info: POST /api/carts/63e15160b8da581ccf084e43 - ::1
+2024-12-08T12:08:32.943Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T12:08:32.943Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T12:08:33.118Z info: Product added to cart for user 63e15160b8da581ccf084e43
+2024-12-08T12:08:33.762Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:37.764Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:41.763Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:45.773Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:48.347Z info: GET /api/carts/find/63e15160b8da581ccf084e43 - ::1
+2024-12-08T12:08:48.350Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T12:08:48.350Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T12:08:48.429Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-08T12:08:49.770Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:53.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:08:57.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:01.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:05.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:09.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:13.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:17.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:21.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:25.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:29.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:33.805Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:37.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:41.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:45.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:49.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:53.787Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:09:57.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:01.786Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:05.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:09.786Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:13.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:17.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:21.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:25.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:29.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:33.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:37.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:41.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:45.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:49.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:53.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:10:57.774Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:01.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:05.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:09.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:13.786Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:17.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:21.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:25.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:29.788Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:33.788Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:37.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:41.787Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:45.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:49.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:53.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:11:57.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:01.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:05.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:09.788Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:13.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:17.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:21.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:25.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:29.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:33.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:37.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:41.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:45.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:49.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:53.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:12:57.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:01.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:02.266Z info: POST /api/orders/63e15160b8da581ccf084e43 - ::1
+2024-12-08T12:13:02.269Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T12:13:02.269Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T12:13:02.287Z info: POST /api/orders/63e15160b8da581ccf084e43 - ::1
+2024-12-08T12:13:02.287Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T12:13:02.287Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T12:13:02.289Z info: PUT /api/carts/63e15160b8da581ccf084e43/63f38d948ef2e863291f08ad - ::1
+2024-12-08T12:13:02.289Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T12:13:02.289Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T12:13:02.376Z info: Order created for user 63e15160b8da581ccf084e43
+2024-12-08T12:13:02.377Z info: Order created for user 63e15160b8da581ccf084e43
+2024-12-08T12:13:02.385Z info: Cart 63f38d948ef2e863291f08ad updated for user 63e15160b8da581ccf084e43
+2024-12-08T12:13:05.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:09.785Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:13.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:17.775Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:21.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:25.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:29.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:33.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:37.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:41.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:45.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:49.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:53.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:13:57.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:01.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:05.774Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:09.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:13.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:17.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:21.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:25.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:29.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:33.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:37.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:41.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:45.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:49.786Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:53.787Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:14:57.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:01.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:05.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:09.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:13.788Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:17.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:21.775Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:25.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:29.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:33.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:37.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:41.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:45.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:49.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:53.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:15:57.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:01.775Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:05.775Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:09.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:13.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:17.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:21.785Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:25.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:29.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:33.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:37.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:41.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:45.789Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:49.785Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:53.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:16:57.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:01.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:05.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:09.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:13.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:17.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:21.775Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:25.775Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:29.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:33.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:37.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:41.775Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:45.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:49.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:53.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:17:57.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:01.775Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:05.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:09.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:13.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:17.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:21.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:25.775Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:29.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:33.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:37.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:41.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:45.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:49.785Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:53.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:18:57.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:01.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:05.787Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:09.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:13.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:17.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:21.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:25.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:29.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:33.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:37.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:41.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:45.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:49.785Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:53.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:19:57.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:01.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:05.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:09.785Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:13.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:17.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:21.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:25.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:29.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:33.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:37.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:41.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:45.776Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:49.786Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:53.788Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:20:57.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:01.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:05.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:09.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:13.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:17.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:21.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:25.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:29.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:33.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:37.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:41.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:45.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:49.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:53.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:21:57.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:01.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:05.775Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:09.785Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:13.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:17.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:21.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:25.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:29.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:33.782Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:37.791Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:41.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:45.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:49.785Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:53.784Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:22:57.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:01.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:05.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:09.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:13.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:17.777Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:21.781Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:25.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:29.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:33.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:37.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:41.779Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:45.778Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:49.783Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:53.780Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:23:57.787Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:01.785Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:05.787Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:09.790Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:13.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:17.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:21.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:25.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:29.792Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:33.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:37.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:41.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:45.792Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:49.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:53.805Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:24:57.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:01.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:05.792Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:09.802Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:13.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:17.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:21.792Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:25.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:28.474Z info: GET /api/orders/63e15160b8da581ccf084e43 - ::1
+2024-12-08T12:25:28.489Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T12:25:28.490Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T12:25:28.584Z info: Orders retrieved for user 63e15160b8da581ccf084e43
+2024-12-08T12:25:29.804Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:33.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:37.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:41.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:45.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:49.804Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:53.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:25:57.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:01.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:05.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:09.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:13.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:17.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:21.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:25.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:29.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:33.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:37.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:41.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:45.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:49.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:53.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:26:57.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:01.791Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:05.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:09.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:13.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:17.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:21.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:25.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:29.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:33.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:37.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:41.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:45.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:49.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:53.802Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:27:57.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:01.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:05.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:09.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:13.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:17.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:21.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:25.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:29.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:33.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:37.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:41.792Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:45.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:49.807Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:53.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:28:57.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:01.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:05.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:09.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:13.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:17.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:21.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:25.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:29.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:33.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:37.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:41.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:45.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:49.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:53.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:29:57.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:01.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:05.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:09.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:13.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:17.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:21.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:25.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:29.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:33.802Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:37.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:41.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:45.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:49.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:53.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:30:57.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:01.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:05.791Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:09.792Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:13.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:17.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:21.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:25.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:29.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:33.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:37.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:41.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:45.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:49.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:53.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:31:57.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:01.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:05.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:09.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:13.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:17.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:21.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:25.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:29.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:33.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:37.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:41.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:45.792Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:49.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:53.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:32:57.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:01.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:05.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:09.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:13.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:17.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:21.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:25.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:29.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:33.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:37.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:41.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:45.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:49.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:53.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:33:57.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:01.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:05.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:09.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:13.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:17.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:21.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:25.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:29.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:33.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:37.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:41.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:45.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:49.802Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:53.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:34:57.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:01.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:05.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:09.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:13.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:17.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:21.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:25.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:29.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:33.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:37.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:41.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:45.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:49.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:53.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:35:57.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:01.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:05.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:09.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:13.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:17.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:21.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:25.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:29.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:33.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:37.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:41.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:45.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:49.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:53.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:36:57.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:01.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:05.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:09.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:13.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:17.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:21.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:25.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:29.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:33.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:37.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:41.794Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:45.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:49.804Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:53.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:37:57.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:01.805Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:05.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:09.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:13.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:17.803Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:21.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:25.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:29.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:33.804Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:37.793Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:41.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:45.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:49.803Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:53.803Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:38:57.805Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:01.805Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:05.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:09.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:13.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:17.807Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:21.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:25.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:29.808Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:33.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:37.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:41.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:45.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:49.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:53.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:39:57.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:01.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:05.808Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:09.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:13.810Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:17.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:21.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:25.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:29.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:33.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:37.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:41.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:45.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:49.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:53.819Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:40:57.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:01.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:05.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:07.726Z info: GET /api/carts/find/63e15160b8da581ccf084e43 - ::1
+2024-12-08T12:41:07.736Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T12:41:07.736Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T12:41:07.837Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-08T12:41:08.987Z info: GET /api/orders/63e15160b8da581ccf084e43 - ::1
+2024-12-08T12:41:08.988Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-08T12:41:08.988Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-08T12:41:09.075Z info: Orders retrieved for user 63e15160b8da581ccf084e43
+2024-12-08T12:41:09.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:13.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:17.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:21.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:25.810Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:29.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:33.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:37.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:41.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:45.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:49.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:53.810Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:41:57.806Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:01.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:05.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:09.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:13.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:17.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:21.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:25.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:29.832Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:33.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:37.808Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:41.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:45.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:49.837Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:53.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:42:57.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:01.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:05.808Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:09.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:13.823Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:17.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:21.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:25.810Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:29.822Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:33.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:37.808Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:41.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:45.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:49.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:53.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:43:57.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:01.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:05.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:09.822Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:13.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:17.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:21.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:25.832Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:29.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:33.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:37.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:41.808Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:45.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:49.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:53.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:44:57.824Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:01.819Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:05.809Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:09.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:13.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:17.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:21.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:25.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:29.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:33.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:37.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:41.809Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:45.859Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:49.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:53.820Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:45:57.819Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:01.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:05.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:09.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:13.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:17.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:21.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:25.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:29.809Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:33.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:37.809Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:41.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:45.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:49.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:53.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:46:57.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:01.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:05.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:09.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:13.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:17.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:21.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:25.809Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:29.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:33.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:37.819Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:41.850Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:45.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:49.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:53.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:47:57.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:01.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:05.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:09.824Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:13.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:17.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:21.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:25.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:29.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:33.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:37.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:41.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:45.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:49.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:53.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:48:57.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:01.820Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:05.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:09.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:13.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:17.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:21.810Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:25.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:29.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:33.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:37.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:41.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:45.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:49.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:53.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:49:57.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:01.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:05.810Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:09.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:13.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:17.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:21.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:25.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:29.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:33.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:37.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:41.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:45.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:49.819Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:53.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:50:57.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:01.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:05.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:09.820Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:13.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:17.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:21.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:25.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:29.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:33.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:37.811Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:41.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:45.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:49.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:53.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:51:57.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:01.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:05.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:09.810Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:13.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:17.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:21.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:25.839Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:29.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:33.817Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:37.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:41.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:45.810Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:49.819Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:53.849Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:52:57.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:01.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:05.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:09.818Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:13.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:17.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:21.812Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:25.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:29.820Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:33.814Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:37.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:41.815Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:45.813Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:49.816Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:53.830Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:53:57.809Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:01.807Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:05.805Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:09.808Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:13.804Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:17.802Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:21.802Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:25.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:29.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:33.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:37.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:41.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:45.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:49.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:53.806Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:54:57.804Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:01.802Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:05.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:09.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:13.796Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:17.801Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:21.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:25.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:29.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:33.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:37.802Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:41.800Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:45.795Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:49.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:53.805Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:55:57.799Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:56:01.798Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:56:05.797Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:56:09.802Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-08T12:56:13.805Z info: GET /metrics - ::ffff:192.168.31.67
+2024-12-21T16:29:25.680Z info: GET /api/products/ - ::1
+2024-12-21T16:29:25.776Z info: All products retrieved
+2024-12-21T16:29:43.943Z info: POST /api/auth/login - ::1
+2024-12-21T16:29:44.040Z info: User logged in: Pihu
+2024-12-21T16:29:44.067Z info: GET /api/products/ - ::1
+2024-12-21T16:29:44.095Z info: All products retrieved
+2024-12-21T16:32:02.420Z info: GET /api/carts/find/63e15160b8da581ccf084e43 - ::1
+2024-12-21T16:32:02.434Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-21T16:32:02.435Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-21T16:32:02.483Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-21T16:33:10.505Z info: GET /api/products/ - ::1
+2024-12-21T16:33:10.543Z info: All products retrieved
+2024-12-21T16:35:27.802Z info: GET /api/products/find/631c481316c2ec8d98a16857 - ::1
+2024-12-21T16:35:27.865Z info: Product with ID 631c481316c2ec8d98a16857 retrieved
+2024-12-21T16:35:30.799Z info: POST /api/carts/63e15160b8da581ccf084e43 - ::1
+2024-12-21T16:35:30.805Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-21T16:35:30.805Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-21T16:35:30.897Z info: Product added to cart for user 63e15160b8da581ccf084e43
+2024-12-21T16:35:35.142Z info: GET /api/carts/find/63e15160b8da581ccf084e43 - ::1
+2024-12-21T16:35:35.144Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-21T16:35:35.145Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-21T16:35:35.181Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-21T16:35:45.308Z info: GET /api/carts/find/63e15160b8da581ccf084e43 - ::1
+2024-12-21T16:35:45.309Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-21T16:35:45.309Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-21T16:35:45.340Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-21T16:37:06.293Z info: POST /api/orders/63e15160b8da581ccf084e43 - ::1
+2024-12-21T16:37:06.295Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-21T16:37:06.295Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-21T16:37:06.311Z info: PUT /api/carts/63e15160b8da581ccf084e43/63f38d948ef2e863291f08ad - ::1
+2024-12-21T16:37:06.312Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-21T16:37:06.312Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-21T16:37:06.339Z info: Cart 63f38d948ef2e863291f08ad updated for user 63e15160b8da581ccf084e43
+2024-12-21T16:37:06.344Z info: Order created for user 63e15160b8da581ccf084e43
+2024-12-21T16:37:11.708Z info: GET /api/orders/63e15160b8da581ccf084e43 - ::1
+2024-12-21T16:37:11.709Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-21T16:37:11.710Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-21T16:37:11.746Z info: Orders retrieved for user 63e15160b8da581ccf084e43
+2024-12-21T16:39:57.057Z info: All products retrieved
+2024-12-21T16:39:58.356Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-21T16:39:58.356Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-21T16:39:58.382Z info: Cart retrieved for user 63e15160b8da581ccf084e43
+2024-12-28T18:22:20.257Z info: All products retrieved
+2024-12-28T18:22:54.357Z info: Products retrieved for category pant
+2024-12-28T18:22:58.231Z info: All products retrieved
+2024-12-28T18:23:08.915Z info: Product with ID 631c4a1416c2ec8d98a16859 retrieved
+2024-12-28T18:23:17.933Z error: Token verification failed for token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTE1MTYwYjhkYTU4MWNjZjA4NGU0MyIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE3MzQ3OTg1ODQsImV4cCI6MTczNTA1Nzc4NH0.lUdtMUqGjqKN7oKt8tbnBsbMXizYWQG23j6nqCgYf7Q - jwt expired
+2024-12-28T18:23:57.542Z error: Token verification failed for token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTE1MTYwYjhkYTU4MWNjZjA4NGU0MyIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE3MzQ3OTg1ODQsImV4cCI6MTczNTA1Nzc4NH0.lUdtMUqGjqKN7oKt8tbnBsbMXizYWQG23j6nqCgYf7Q - jwt expired
+2024-12-28T18:24:03.053Z info: All products retrieved
+2024-12-28T18:24:12.268Z info: User logged in: Pihu
+2024-12-28T18:24:12.440Z info: All products retrieved
+2024-12-28T18:24:18.128Z info: Product with ID 631c4a1416c2ec8d98a16859 retrieved
+2024-12-28T18:24:19.416Z info: Token verified for user: 63e15160b8da581ccf084e43
+2024-12-28T18:24:19.417Z info: User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43
+2024-12-28T18:24:19.550Z info: Product added to cart for user 63e15160b8da581ccf084e43
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:27:58.399Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:02.381Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:06.390Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:10.380Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:14.385Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:18.389Z"}
+{"level":"info","message":"Token verified for user: 63e15160b8da581ccf084e43","timestamp":"2024-12-28T18:28:20.966Z"}
+{"level":"info","message":"User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43","timestamp":"2024-12-28T18:28:20.966Z"}
+{"level":"info","message":"Product added to cart for user 63e15160b8da581ccf084e43","timestamp":"2024-12-28T18:28:21.084Z"}
+{"ip":"::1","level":"info","message":"POST /api/carts/63e15160b8da581ccf084e43 - ::1 - Status: 201","status":201,"timestamp":"2024-12-28T18:28:21.086Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:22.391Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:26.389Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:30.382Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:34.382Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:38.382Z"}
+{"ip":"::ffff:192.168.1.122","level":"info","message":"GET /metrics - ::ffff:192.168.1.122 - Status: 200","status":200,"timestamp":"2024-12-28T18:28:42.375Z"}
+{"level":"info","message":"Token verified for user: 63e15160b8da581ccf084e43","timestamp":"2024-12-28T18:33:59.180Z"}
+{"level":"info","message":"User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43","timestamp":"2024-12-28T18:33:59.183Z"}
+{"level":"info","message":"Product added to cart for user 63e15160b8da581ccf084e43","timestamp":"2024-12-28T18:33:59.258Z"}
+{"ip":"::1","level":"info","message":"POST /api/carts/63e15160b8da581ccf084e43 - ::1 - Status: 201","status":201,"timestamp":"2024-12-28T18:33:59.260Z"}
+{"level":"info","message":"Product with ID 631c4a1416c2ec8d98a16859 retrieved","timestamp":"2024-12-28T18:35:46.733Z"}
+{"ip":"::1","level":"info","message":"GET /api/products/find/631c4a1416c2ec8d98a16859 - ::1 - Status: 304","status":304,"timestamp":"2024-12-28T18:35:46.734Z"}
+{"level":"error","message":"Token verification failed for token: eyJGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTE1MTYwYjhkYTU4MWNjZjA4NGU0MyIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE3MzU0MTAyNTIsImV4cCI6MTczNTY2OTQ1Mn0.LRezfULpjBJVjRtyZSMfGJXap-d2JFJtK0h1MAT5pio - invalid token","timestamp":"2024-12-28T18:35:48.282Z"}
+{"ip":"::1","level":"error","message":"POST /api/carts/63e15160b8da581ccf084e43 - ::1 - Status: 403","status":403,"timestamp":"2024-12-28T18:35:48.282Z"}
+{"level":"info","message":"All products retrieved","timestamp":"2024-12-28T18:36:41.612Z"}
+{"ip":"::1","level":"info","message":"GET /api/products/ - ::1 - Status: 304","status":304,"timestamp":"2024-12-28T18:36:41.614Z"}
+{"level":"info","message":"User logged in: Pihu","timestamp":"2024-12-28T18:37:17.714Z"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login - ::1 - Status: 200","status":200,"timestamp":"2024-12-28T18:37:17.715Z"}
+{"level":"info","message":"All products retrieved","timestamp":"2024-12-28T18:37:17.775Z"}
+{"ip":"::1","level":"info","message":"GET /api/products/ - ::1 - Status: 304","status":304,"timestamp":"2024-12-28T18:37:17.776Z"}
+{"level":"info","message":"Products retrieved for category autmnsale","timestamp":"2024-12-28T18:38:27.160Z"}
+{"ip":"::1","level":"info","message":"GET /api/products/?category=autmnsale - ::1 - Status: 200","status":200,"timestamp":"2024-12-28T18:38:27.166Z"}
+{"level":"info","message":"Product with ID 6321697d92ba7a5485c2e31b retrieved","timestamp":"2024-12-28T18:39:04.281Z"}
+{"ip":"::1","level":"info","message":"GET /api/products/find/6321697d92ba7a5485c2e31b - ::1 - Status: 200","status":200,"timestamp":"2024-12-28T18:39:04.282Z"}
+{"level":"info","message":"Token verified for user: 63e15160b8da581ccf084e43","timestamp":"2024-12-28T18:44:06.478Z"}
+{"level":"info","message":"User 63e15160b8da581ccf084e43 authorized for resource 63e15160b8da581ccf084e43","timestamp":"2024-12-28T18:44:06.478Z"}
+{"level":"info","message":"Product added to cart for user 63e15160b8da581ccf084e43","timestamp":"2024-12-28T18:44:06.565Z"}
+{"ip":"::1","level":"info","message":"POST /api/carts/63e15160b8da581ccf084e43 - ::1 - Status: 201","status":201,"timestamp":"2024-12-28T18:44:06.566Z"}

@@ -1,0 +1,5 @@
+2024-12-08T11:52:49.498Z error: Authentication attempt without token
+2024-12-28T18:23:17.933Z error: Token verification failed for token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTE1MTYwYjhkYTU4MWNjZjA4NGU0MyIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE3MzQ3OTg1ODQsImV4cCI6MTczNTA1Nzc4NH0.lUdtMUqGjqKN7oKt8tbnBsbMXizYWQG23j6nqCgYf7Q - jwt expired
+2024-12-28T18:23:57.542Z error: Token verification failed for token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTE1MTYwYjhkYTU4MWNjZjA4NGU0MyIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE3MzQ3OTg1ODQsImV4cCI6MTczNTA1Nzc4NH0.lUdtMUqGjqKN7oKt8tbnBsbMXizYWQG23j6nqCgYf7Q - jwt expired
+{"level":"error","message":"Token verification failed for token: eyJGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTE1MTYwYjhkYTU4MWNjZjA4NGU0MyIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE3MzU0MTAyNTIsImV4cCI6MTczNTY2OTQ1Mn0.LRezfULpjBJVjRtyZSMfGJXap-d2JFJtK0h1MAT5pio - invalid token","timestamp":"2024-12-28T18:35:48.282Z"}
+{"ip":"::1","level":"error","message":"POST /api/carts/63e15160b8da581ccf084e43 - ::1 - Status: 403","status":403,"timestamp":"2024-12-28T18:35:48.282Z"}
