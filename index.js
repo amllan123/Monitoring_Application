@@ -52,9 +52,9 @@ app.get('/', (req, res) => {
     res.send("Hello from Server 🥳 ");
 });
 
-app.listen(port, () => {
-    console.log(`Server running at http://localhost:${port}`);
-});
+app.listen(port, '0.0.0.0', () => {
+    console.log(`Server running at http://0.0.0.0:${port}`);
+  });
 
 // Monitoring Part
 const client = require('prom-client');
